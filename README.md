@@ -1,5 +1,6 @@
-#SuperCars
-Con la aplicación "SuperCars" podes buscar el auto de tus sueños desde cualquier lugar.
+#CarrosPy
+
+Con la aplicación "CarrosPy" podes buscar el auto de tus sueños desde cualquier lugar.
 La idea es simple: cuando quieras comprar un auto lo primero que necesitas es un rango de precios, escoger un modelo y saber sus beneficios y aquí te damos todo eso sin tener que ir a la consecionaria, llenar formularios tediosos o leer toda una página web.
 Este aplicaticativo es muy fácil de usar. Muestra las categorías, luego los modelos con sus respectivos precios, al contado o financiado, una galeria de fotos y finalmente los detalles desplegados.
 
